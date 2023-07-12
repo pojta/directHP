@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Harry Potter</string>
+    <string name="patronus">Patronus</string>
+    <string name="hogwarts_staff">Hogwart\'s staff</string>
+    <string name="alternate_actors">Alternate actors</string>
+    <string name="actor">Actor</string>
+    <string name="wand">Wand</string>
+    <string name="wizard">Wizard</string>
+    <string name="gender">Gender</string>
+    <string name="hogwarts_student">Hogwart\'s student%s</string>
+    <string name="api_character_not_found_error">Character has not been found</string>
+    <string name="api_server_error">Server error</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="try_again">Try again</string>
+</resources>
